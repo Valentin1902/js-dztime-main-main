@@ -16,7 +16,7 @@ export const ua = {
   pre_footer_ul2: "314,530 тигрові креветки",
   pre_footer_ul3: "1 000 000+ атракціони",
   pre_footer_ul_1: "100 ресторанів",
-  pre_footer_ul_2: "25 Міста",
+  pre_footer_ul_2: "25 Міст",
   pre_footer_ul_3: "5 брендів",
   pre_footer_ul_4: "І більше!",
   footer_ul1_li1: "Наші ресторани",
